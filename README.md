@@ -6,15 +6,14 @@ The project integrates data preprocessing, feature engineering, and model buildi
 
 ---
 
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3B8686?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+## 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue) Data Processing, Modeling  
+![Pandas](https://img.shields.io/badge/Pandas-yellow) Data Manipulation  
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-orange) Machine Learning Models  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-green) Data Visualization  
+![Seaborn](https://img.shields.io/badge/Seaborn-teal) Statistical Plots  
+![Jupyter](https://img.shields.io/badge/Jupyter-red) Notebook Environment
 
 
 ---
