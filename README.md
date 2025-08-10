@@ -13,7 +13,7 @@ The project integrates data preprocessing, feature engineering, and model buildi
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-ML%20Models-gray?logo=scikit-learn&logoColor=white&labelColor=f89939)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualizations-gray?logo=plotly&logoColor=white&labelColor=11557c)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-gray?logo=seaborn&logoColor=white&labelColor=16aac7)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-gray?logo=jupyter&logoColor=white&labelColor=f37726)
+![Google%20Colab](https://img.shields.io/badge/Google%20Colab-Notebook-gray?logo=google-colab&logoColor=white&labelColor=f9ab00)
 
 ---
 
