@@ -8,13 +8,12 @@ The project integrates data preprocessing, feature engineering, and model buildi
 
 ## 🔧 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue) Data Processing, Modeling  
-![Pandas](https://img.shields.io/badge/Pandas-yellow) Data Manipulation  
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-orange) Machine Learning Models  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-green) Data Visualization  
-![Seaborn](https://img.shields.io/badge/Seaborn-teal) Statistical Plots  
-![Jupyter](https://img.shields.io/badge/Jupyter-red) Notebook Environment
-
+![Python](https://img.shields.io/badge/Python-3.8%2B-gray?logo=python&logoColor=white&labelColor=3776AB)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-gray?logo=pandas&logoColor=white&labelColor=150458)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-ML%20Models-gray?logo=scikit-learn&logoColor=white&labelColor=f89939)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualizations-gray?logo=plotly&logoColor=white&labelColor=11557c)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-gray?logo=seaborn&logoColor=white&labelColor=16aac7)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-gray?logo=jupyter&logoColor=white&labelColor=f37726)
 
 ---
 
