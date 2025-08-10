@@ -73,11 +73,6 @@ Project_3-Employee_Attrition_ML_Model/
 
 ## 📷 Screenshots
 
-> *Replace these with actual project output images*
-
-![Confusion Matrix](https://via.placeholder.com/600x300?text=Confusion+Matrix)
-![Feature Importance](https://via.placeholder.com/600x300?text=Feature+Importance+Graph)
-![Prediction Output](https://via.placeholder.com/600x300?text=Prediction+Results)
 
 ---
 
