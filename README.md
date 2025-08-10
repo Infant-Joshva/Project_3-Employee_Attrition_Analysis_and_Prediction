@@ -32,12 +32,14 @@ This project focuses on **two primary predictions** (you can choose based on dat
 ---
 
 ## 🛠 Tech Stack
-- **Programming Language:** Python
-- **Libraries & Tools:**
-  - pandas, numpy – Data handling
-  - matplotlib, seaborn – Data visualization
-  - scikit-learn – Machine learning models (Logistic Regression, Decision Trees, Random Forest)
-  - Jupyter Notebook / Google Colab – Development environment
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3B8686?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
@@ -93,7 +95,8 @@ employee-insights/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Infant-Joshva/Project_3-Employee_Attrition_ML_Model.git
+   git clone https://github.com/your-username/employee-insights.git
+   cd employee-insights
    ```
 
 2. **Install dependencies**
