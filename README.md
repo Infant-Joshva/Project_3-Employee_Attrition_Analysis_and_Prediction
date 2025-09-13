@@ -11,8 +11,8 @@ The project integrates data preprocessing, feature engineering, and model buildi
 ![Python](https://img.shields.io/badge/Python-3.8%2B-gray?logo=python&logoColor=white&labelColor=3776AB)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-gray?logo=pandas&logoColor=white&labelColor=150458)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-ML%20Models-gray?logo=scikit-learn&logoColor=white&labelColor=f89939)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualizations-gray?logo=plotly&logoColor=white&labelColor=11557c)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-gray?logo=seaborn&logoColor=white&labelColor=16aac7)
+![Plotly](https://img.shields.io/badge/Plotly-Visualizations-gray?logo=plotly&logoColor=white&labelColor=11557c)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-Business%20Dashboards-gray?logo=power-bi&logoColor=white&labelColor=F2C811)
 ![Google%20Colab](https://img.shields.io/badge/Google%20Colab-Notebook-gray?logo=google-colab&logoColor=white&labelColor=f9ab00)
 
 ---
@@ -50,12 +50,12 @@ Project_3-Employee_Attrition_ML_Model/
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/Infant-Joshva/Project_3-Employee_Attrition_ML_Model.git
+   git clone https://github.com/Infant-Joshva/Project_3-Employee_Attrition_Analysis_and_Prediction.git
    ```
 
 2. Navigate to the project folder  
    ```bash
-   cd Project_3-Employee_Attrition_ML_Model
+   cd Project_3-Employee_Attrition_Analysis_and_Prediction
    ```
 
 3. Install required packages  
@@ -73,15 +73,30 @@ Project_3-Employee_Attrition_ML_Model/
 ## 📊 Features
 
 - Predict employee attrition risk based on HR features
-- Predict employee performance ratings
-- Estimate promotion likelihood based on historical patterns
 - Data preprocessing and feature engineering pipeline
 - Visualizations for better HR decision-making
 
 ---
 
-## 📷 Screenshots
+## 📷 Streamlit Screenshots
 
+### Attrition YES ⚠️
+
+![Prediction YES](https://github.com/user-attachments/assets/05a8d17f-45f2-48da-88d8-f523eab23bcb)
+
+##
+
+### Attrition NO ✅
+
+![Prediction NO](https://github.com/user-attachments/assets/e1c84035-f3db-4db0-bca2-b74d1d54e86e)
+
+---
+
+## 📷 PowerBI EDA Screenshots
+
+### HR Attrition Insights 📉
+
+![HR Overview](https://github.com/user-attachments/assets/5c960f1f-c3f4-4216-9a52-3c6fb27f733a)
 
 ---
 
