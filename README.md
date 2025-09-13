@@ -78,7 +78,7 @@ Project_3-Employee_Attrition_ML_Model/
 
 ---
 
-## 📷 Screenshots
+## 📷 Streamlit Screenshots
 
 ### Attrition YES ⚠️
 
@@ -89,6 +89,14 @@ Project_3-Employee_Attrition_ML_Model/
 ### Attrition NO ✅
 
 ![Prediction NO](https://github.com/user-attachments/assets/e1c84035-f3db-4db0-bca2-b74d1d54e86e)
+
+---
+
+## 📷 PowerBI EDA Screenshots
+
+### HR Attrition Insights 📉
+
+![HR Overview](https://github.com/user-attachments/assets/5c960f1f-c3f4-4216-9a52-3c6fb27f733a)
 
 ---
 
