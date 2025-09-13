@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load your trained pipeline
-model = joblib.load("Data-Science-learning-path\Project_3(Employee_Attrition_ML_Model)Git\pickle_files\logreg_pipeline_smote.pkl")
+model = joblib.load("Project_3-Employee_Attrition_ML_Model\models\logreg_pipeline_smote.pkl")
 
 # --- Page Config ---
 st.set_page_config(page_title="Employee Attrition Prediction",page_icon="🧑‍💻")
@@ -108,7 +108,7 @@ user_input = {
 
     'YearsAtCompany': st.number_input("Years At Company", 0),
 
-    'YearsSinceLastPromotion': st.number_input("Years Since Last Promotion", 1),
+    'YearsSinceLastPromotion': st.number_input("Years Since Last Promotion", 0),
 
     'YearsWithCurrManager': st.number_input("Years With Current Manager", 0),
 
