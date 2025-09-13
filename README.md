@@ -50,12 +50,12 @@ Project_3-Employee_Attrition_ML_Model/
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/Infant-Joshva/Project_3-Employee_Attrition_ML_Model.git
+   git clone https://github.com/Infant-Joshva/Project_3-Employee_Attrition_Analysis_and_Prediction.git
    ```
 
 2. Navigate to the project folder  
    ```bash
-   cd Project_3-Employee_Attrition_ML_Model
+   cd Project_3-Employee_Attrition_Analysis_and_Prediction
    ```
 
 3. Install required packages  
@@ -73,8 +73,6 @@ Project_3-Employee_Attrition_ML_Model/
 ## 📊 Features
 
 - Predict employee attrition risk based on HR features
-- Predict employee performance ratings
-- Estimate promotion likelihood based on historical patterns
 - Data preprocessing and feature engineering pipeline
 - Visualizations for better HR decision-making
 
@@ -82,6 +80,15 @@ Project_3-Employee_Attrition_ML_Model/
 
 ## 📷 Screenshots
 
+### Attrition YES ⚠️
+
+![Prediction YES](https://github.com/user-attachments/assets/05a8d17f-45f2-48da-88d8-f523eab23bcb)
+
+##
+
+### Attrition NO ✅
+
+![Prediction NO](https://github.com/user-attachments/assets/e1c84035-f3db-4db0-bca2-b74d1d54e86e)
 
 ---
 
