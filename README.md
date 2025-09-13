@@ -1,7 +1,7 @@
-# 🧠 Employee Attrition & Performance Prediction
+# 🧠 Employee Attrition Analysis and Prediction
 
-Employee Attrition & Performance Prediction is a Data Science project that uses machine learning models to analyze and predict key HR metrics. 
-It focuses on predicting **employee attrition**, **performance ratings**, and **promotion likelihood** using structured employee data.  
+Employee Attrition Analysis and Prediction is a Data Science project that uses machine learning models to analyze and predict key HR metrics. 
+It focuses on predicting **employee attrition** using structured employee data.  
 The project integrates data preprocessing, feature engineering, and model building, delivering insights through visualizations and metrics.
 
 ---
@@ -21,18 +21,27 @@ The project integrates data preprocessing, feature engineering, and model buildi
 
 ```
 Project_3-Employee_Attrition_ML_Model/
-├── 📁 data/
-│   └── employee_data.csv                # Raw dataset
-├── 📁 notebooks/
-│   └── Employee_Attrition_Analysis.ipynb # Data cleaning, EDA, model training
+├── 📁 app/
+│   └── main.py                             # Streamlit app
+├── 📁 dashboard/
+│   └── HR_Attrition_Insights.pbix          # Power BI dashboard
+├── 📁 dataset/
+│   ├── employee_raw.csv                    # Raw dataset
+│   └── employee_cleaned.csv                # Cleaned dataset
 ├── 📁 models/
-│   └── attrition_model.pkl               # Trained ML model
-├── 📁 visuals/
-│   └── feature_importance.png            # Example visualization
-├── 📁 scripts/
-│   └── train_model.py                    # Script to train ML model
-├── requirements.txt                      # Python dependencies
-└── README.md                             # Project documentation
+│   └── logreg_pipeline_smote.pkl           # Trained ML models
+├── 📁 notebooks/
+|   ├── Employee_Attrition_Analysis.ipynb   # EDA & Model building (Colab)
+│   └── ML_Model_Selection                  # Model Traning & Selection
+├── 📁 notes/
+|   ├──Preprocessing Guide.pdf              # Notes on preprocessing
+│   └── Feature Selection.md                # Notes on Feature selection
+├── 📁 video/
+│   └── demo.mp4                            # Project demo video
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 ---
