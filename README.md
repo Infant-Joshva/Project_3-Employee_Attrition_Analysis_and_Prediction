@@ -37,7 +37,7 @@ Project_3-Employee_Attrition_ML_Model/
 |   ├──Preprocessing Guide.pdf              # Notes on preprocessing
 │   └── Feature Selection.md                # Notes on Feature selection
 ├── 📁 video/
-│   └── demo.mp4                            # Project demo video
+│   └── project_demo.mp4                            # Project demo video
 ├── .gitignore
 ├── LICENSE
 ├── README.md
@@ -82,13 +82,13 @@ Project_3-Employee_Attrition_ML_Model/
 
 ### Attrition YES ⚠️
 
-![Prediction YES](https://github.com/user-attachments/assets/05a8d17f-45f2-48da-88d8-f523eab23bcb)
+![Prediction YES](https://github.com/user-attachments/assets/b7c74c72-225b-4de8-bced-009d7fae3caa)
 
 ##
 
 ### Attrition NO ✅
 
-![Prediction NO](https://github.com/user-attachments/assets/e1c84035-f3db-4db0-bca2-b74d1d54e86e)
+![Prediction NO](https://github.com/user-attachments/assets/3e615051-9308-471b-b381-161b36f6991e)
 
 ---
 
