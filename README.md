@@ -37,7 +37,7 @@ Project_3-Employee_Attrition_ML_Model/
 |   ├──Preprocessing Guide.pdf              # Notes on preprocessing
 │   └── Feature Selection.md                # Notes on Feature selection
 ├── 📁 video/
-│   └── demo.mp4                            # Project demo video
+│   └── project_demo.mp4                            # Project demo video
 ├── .gitignore
 ├── LICENSE
 ├── README.md
