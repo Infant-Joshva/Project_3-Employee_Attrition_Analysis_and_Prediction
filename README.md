@@ -14,9 +14,9 @@ The project integrates data preprocessing, feature engineering, and model buildi
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-gray?logo=numpy&logoColor=white&labelColor=013243)
 ![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Analysis-gray?logo=scipy&logoColor=white&labelColor=8C5E9C)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-ML%20Models-gray?logo=scikit-learn&logoColor=white&labelColor=f89939)
+![Google%20Colab](https://img.shields.io/badge/Google%20Colab-Notebook-gray?logo=google-colab&logoColor=white&labelColor=f9ab00)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-gray?logo=streamlit&logoColor=white&labelColor=FF4B4B)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-Business%20Dashboards-gray?logo=power-bi&logoColor=white&labelColor=F2C811)
-![Google%20Colab](https://img.shields.io/badge/Google%20Colab-Notebook-gray?logo=google-colab&logoColor=white&labelColor=f9ab00)
 
 ---
 
