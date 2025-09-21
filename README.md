@@ -114,7 +114,7 @@ Project_3-Employee_Attrition_ML_Model/
 ## 👤 Author
 
 **Infant Joshva**  
-📧 infantjoshva46@gmail.com  
+📧 infantjoshva2024@gmail.com  
 🐙 [GitHub](https://github.com/Infant-Joshva)  
 🔗 [LinkedIn](https://www.linkedin.com/in/infant-joshva)
 
